@@ -1,4 +1,6 @@
 # Emloyee_Survey_Responses_Analysis
+![cytonn-photography-n95VMLxqM2I-unsplash](https://github.com/user-attachments/assets/09312d13-216d-4727-bfc6-77d1ac2931a1)
+
 ### PROJECT OVERVIEW
 The Employee Survey Responses are actual responses from an employee engagement survey conducted by Pierce County WA and completed voluntarily by government employees.
 ### DATA SOURCE
@@ -28,6 +30,8 @@ Grouped the questions into 5  Categories using DAX.
 - Total Question: Number of Questions in the survey
 - Department: Number of departments in the Organization
 ### Dashboard 
+![Slide2](https://github.com/user-attachments/assets/da31a8b6-a3ea-4f28-a6b4-0b2ed78bc8b2)
+
 ### Key insights
 ###### Overview
 - Total Responses: 14,575
